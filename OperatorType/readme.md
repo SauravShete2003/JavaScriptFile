@@ -1,6 +1,8 @@
 # operator type 
  
  ### there are 6 type of operators 
+  
+ ![opreators](opreators.jpg)
 
  1. Arithmatic operator
  ``` javascript
@@ -31,9 +33,8 @@
   const result = neet > 300 || cet > 35
   console.log (result) ;
 
- 6. Other operator
+ 6.Other operator
   ternary operator (? :)
   let num = 10 ;
   num % 2 == 0 ? console.log("even") ;
   console.log ("odd") ;
-  
