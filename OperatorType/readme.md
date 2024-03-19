@@ -1,6 +1,6 @@
 # operator type 
  
- ### there are 6 type of operators 
+ ### there are various type of operators 
   
  ![opreators](opreators.jpg)
 
